@@ -1,4 +1,4 @@
-# health-monitoring-sysytem
+# health-monitoring-system
 To know the health conditions of a patient at your fingertips using IOT.
 
 Step 1:- First of all, user needs to Create a Account on ThingSpeak.com, then Sign In and click on Get Started.
